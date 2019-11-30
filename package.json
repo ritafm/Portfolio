@@ -24,10 +24,6 @@
     "contributors": [
         "David Miller (http://davidmiller.io/)"
     ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-creative.git"
-    },
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.9.0",
         "bootstrap": "4.3.1",
