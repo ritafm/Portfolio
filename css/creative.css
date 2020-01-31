@@ -58,6 +58,10 @@ body {
   background-color: #fff;
 }
 
+#contact {
+  background-color: #ffa940;
+}
+
 [tabindex="-1"]:focus {
   outline: 0 !important;
 }
